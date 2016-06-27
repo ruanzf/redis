@@ -1,5 +1,5 @@
 # redis
-Redis设计与实现
+Redis设计与实现阅读笔记（图片无法显示，请看上面的PDF）
 
 一、SDS的定义
 struct sdshdr {
